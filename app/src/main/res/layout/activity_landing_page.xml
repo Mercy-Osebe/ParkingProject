@@ -58,7 +58,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="20sp"
-            android:text="Do you wish to park your vehicle?"
+            android:text="Get started"
             android:textAlignment="center"
             />
         <androidx.constraintlayout.widget.ConstraintLayout
